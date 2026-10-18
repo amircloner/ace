@@ -2,16 +2,16 @@
     "name": "ace-builds",
     "main": "./src-noconflict/ace.js",
     "typings": "ace.d.ts",
-    "version": "1.4.12",
+    "version": "1.5.0",
     "description": "Ace (Ajax.org Cloud9 Editor)",
     "repository": {
         "type": "git",
-        "url": "https://github.com/overleaf/ace-builds.git"
+        "url": "git+https://github.com/amircloner/ace.git"
     },
     "author": "Ace Contributors",
     "license": "BSD-3-Clause",
     "bugs": {
-        "url": "https://github.com/overleaf/ace-builds/issues"
+        "url": "https://github.com/amircloner/ace/issues"
     },
-    "homepage": "https://github.com/overleaf/ace-builds"
+    "homepage": "https://github.com/amircloner/ace"
 }
